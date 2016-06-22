@@ -1,10 +1,6 @@
 #Understanding ES6 Imports and Exports
 
-View the code in src/
-
-
-
-
+View the code in src/ to follow along in the tutorial
 
 ###Note
 
